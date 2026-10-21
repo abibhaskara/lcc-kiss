@@ -1,0 +1,14 @@
+{
+  "team1": {
+    "name": "TIM A",
+    "score": 950
+  },
+  "team2": {
+    "name": "TIM B",
+    "score": 200
+  },
+  "team3": {
+    "name": "TIM C",
+    "score": 100
+  }
+}
